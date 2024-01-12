@@ -7,15 +7,15 @@ Hello,
 
 You will find below the technical requirements for individual projects:
 1. The application should use the following tech stack:
-Spring Boot
-Java 17
-Maven
-PostgreSQL
-H2 in-memory database
-MockMVC (for integration tests)
-JUnit (for unit tests)
-Mockito (to mock dependencies for unit tests)
-Hibernate as ORM (the default one provided by Spring)
+-Spring Boot
+-Java 17
+-Maven
+-PostgreSQL
+-H2 in-memory database
+-MockMVC (for integration tests)
+-JUnit (for unit tests)
+-Mockito (to mock dependencies for unit tests)
+-Hibernate as ORM (the default one provided by Spring)
 2. There should be at least four REST APIs: one for each CRUD operation.
 3. At least one API should have a more complex query behind it, for example, a GET API that retrieves data with more than one @RequestParam (as in the example below). You can use either Spring Data JPA for this or a native query.
 
