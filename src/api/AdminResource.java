@@ -1,9 +1,6 @@
 package api;
 
 
-import service.customer.CustomerService;
-import service.reservation.ReservationService;
-
 import java.util.Collection;
 import java.util.List;
 

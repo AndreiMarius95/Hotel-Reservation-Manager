@@ -1,6 +1,6 @@
 public class HotelApp {
 
-public static void main(String[] args) {
-    MainMenu.mainMenu();
-}
+    public static void main(String[] args) {
+        MainMenu.mainMenu();
+    }
 }
