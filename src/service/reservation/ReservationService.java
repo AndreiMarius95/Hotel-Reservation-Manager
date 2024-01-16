@@ -1,8 +1,6 @@
 package service.reservation;
 
-import model.customer.Customer;
-import model.reservation.Reservation;
-import model.room.IRoom;
+
 
 import java.util.Calendar;
 import java.util.Collection;
